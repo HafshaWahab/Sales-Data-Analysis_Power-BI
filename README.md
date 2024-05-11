@@ -64,5 +64,5 @@ Based on the findings, here are some business suggestions to increase profit and
 These strategies aim to increase profit margins and solidify the client's reputation as a customer-centric and innovative company in the market.
 
 
-_P.S. I completed this project as a part of my virtual internship under MeriSKILL, guided by SAKTHISOWMYA T._
+_P.S. I completed this project as a part of my virtual internship under MeriSKILL._
 
